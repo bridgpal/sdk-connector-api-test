@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://sdk.netlify.com/sdk/config-schema.json
 config:
-  slug: sdk-connector-api-test
-  name: sdk-connector-api-test
-  
+  slug: 9szutrtg-google-sdk-2
+  name: 9szutrtg-google-sdk-2
+
   scopes:
     site: ["read", "write"]
     user: ["read", "write"]
@@ -10,4 +10,3 @@ config:
 
   # set this to true to add a global require shim to esbuild. Workaround for https://github.com/evanw/esbuild/issues/1921
   use_cjs_shims: false
-
